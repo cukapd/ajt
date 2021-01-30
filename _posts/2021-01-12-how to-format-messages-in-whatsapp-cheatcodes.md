@@ -2,12 +2,14 @@
 layout: post
 title: How to Format your messages in Whatsapp - CheatCodes
 cover-img: /assets/images/jt4.jpeg
-tags: [Android,Whatsapp,Features,JT4]
+tags: [Android,Whatsapp,Features]
 comments: true
 ---
 
+``AJT4``
+
 {: .box-warning}
-Overview:
+• Overview:
 
 • bold,italics,underlined,strikethrough. You need to style your fonts to make them look attractive whenever you send them to someone
 
@@ -15,7 +17,7 @@ Overview:
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 1. How do you make text _bold_ on Whatsapp? 
    To Bold a word - Add asterisks ( * ) to the either side of the *word*.
