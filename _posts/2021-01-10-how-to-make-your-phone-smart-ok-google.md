@@ -2,17 +2,19 @@
 layout: post
 title: How to make your Android phone smart - OK Google
 cover-img: /assets/images/jt1.png
-tags: [Android,Features,Tricks,JT1]
+tags: [Android,Features,Tricks]
 comments: true
 last-updated: 2020-01-22
 ---
+
+``AJT1``
 
 {: .box-warning}
 Pros:
 
 • Run your phone by your voice
 
-• When you say "Ok Google," the feature is ready to start recognising your voice.
+• When you say "Ok Google," the feature is ready to start recognise your voice
 
 
 {: .box-note}
