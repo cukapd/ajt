@@ -4,6 +4,7 @@ title: How to Format your messages in Whatsapp - CheatCodes
 cover-img: /assets/images/jt4.jpeg
 tags: [Android,Whatsapp,Features]
 comments: true
+last-updated: 2021-01-18
 ---
 
 ``AJT4``
