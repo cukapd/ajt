@@ -2,12 +2,14 @@
 layout: post
 title: Erase data, set password and locate your lost Android smartphone - Find My Device
 cover-img: /assets/images/jt2.jpeg
-tags: [Android,Features,Hacks,Tricks,JT2]
+tags: [Android,Features,Hacks,Tricks]
 comments: true
 ---
 
+``AJT2``
+
 {: .box-error}
-Prequisites:
+• Prequisites:
 
 • You must have Find My Device activated as Device Admin in smartphone's settings
 
@@ -17,7 +19,7 @@ Prequisites:
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 
 1. You can locate your device by signing into [https://android.com/find/](https://android.com/find/){:target="_blank"}
