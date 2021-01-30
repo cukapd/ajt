@@ -2,18 +2,20 @@
 layout: post
 title: There is a hidden game in settings - Android
 cover-img: /assets/images/jt3.jpg
-tags: [Android,Features,Games,JT3]
+tags: [Android,Features,Games]
 comments: true
 ---
 
+``AJT3``
+
 {: .box-warning}
-Overview:
+• Overview:
 
 • Bored at work? In line at the supermarket? Need to keep the kids entertained? Android has a hidden video game. 
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 1. On your android, Go to Settings > System > About Phone (or Software info),
 
