@@ -9,7 +9,7 @@
 title: Android - Jawla Tech
 
 # Your name to show in the footer
-author: Jawla
+author: Jawla Tech Solutions
 
 # --- List of links in the navigation bar --- #
 
@@ -115,7 +115,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#86b300"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
