@@ -34,4 +34,4 @@ last-updated: 2021-01-18
 
 4. How do you change the font on WhatsApp?
    To change the font in WhatsApp - Add ( ` ` ` ) to either side of the ` ` ` word ` ` ` .
-   Eg:  The historical moment in guy’s life is, when a girl asks ``` Can I add you on Whatsapp?? ```.
+   Eg:  The historical moment in guy’s life is, when a girl asks ` ` ` Can I add you on Whatsapp?? ` ` ` .
