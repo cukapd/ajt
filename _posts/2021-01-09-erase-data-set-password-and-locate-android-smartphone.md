@@ -15,7 +15,7 @@ comments: true
 
 • You must have same Gmail account logged in lost phone and current device
 
-• Lost phone must have an active internet connection. 
+• Lost phone must have an active internet connection
 
 
 {: .box-note}
