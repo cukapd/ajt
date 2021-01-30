@@ -4,6 +4,7 @@ title: Erase data, set password and locate your lost Android smartphone - Find M
 cover-img: /assets/images/jt2.jpeg
 tags: [Android,Features,Hacks,Tricks]
 comments: true
+last-updated:2021-01-14
 ---
 
 ``AJT2``
