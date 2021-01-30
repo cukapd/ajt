@@ -14,13 +14,10 @@ author: Jawla
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Connect:
-    - About Us: "/aboutus"
-    - Contact Us: "/contactus"
-  Resources:
-    - Top Android Utilities: ""
-    - Best PC Utilities: ""
-    - How To's: ""
+  Home: "https://android.jawlatech.ml"
+  Android ✴️: "https://android.jawlatech.ml"
+  Desktop: "https://desktop.jawlatech.ml"
+  Web: "https://web.jawlatech.ml"
 
 # --- Logo --- #
 
