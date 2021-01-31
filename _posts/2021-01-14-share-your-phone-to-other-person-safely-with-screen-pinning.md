@@ -2,7 +2,7 @@
 layout: post
 title: Share your phone to other person safely with limited access to only current screen - Screen pinning
 cover-img: https://lh3.googleusercontent.com/8_u-V6SNNx6F6NZ3wS7f7IbLtgLLvGe2dP6w-1YgNHdNX9wF5gAPDvJ9adtU3pk_XnScZNs7vLqCPzfJFgt-Wr6QVgrp9O-fjNyBOB87QjoFToCnqxmlzRBJBAe10VkytVCd8yPbqg=w2400
-tags: [Android,Features,Hacks,Tricks]
+tags: [Android,Features,Privacy,Tricks]
 comments: true
 last-updated: 2021-01-17
 ---
