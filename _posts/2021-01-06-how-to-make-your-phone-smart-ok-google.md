@@ -10,7 +10,7 @@ last-updated: 2020-01-22
 ``AJT1``
 
 {: .box-warning}
-Pros:
+• Pros:
 
 • Run your phone by your voice
 
@@ -18,7 +18,7 @@ Pros:
 
 
 {: .box-note}
-Steps:
+• Steps:
 
 1. Open the Google app from homescreen.
 
