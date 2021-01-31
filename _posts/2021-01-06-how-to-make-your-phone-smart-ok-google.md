@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make your Android phone smart - OK Google
-cover-img: https://lh3.googleusercontent.com/qe9s4WRedqMRs1lvlK88p_KLoYXr9onQRtGToOaUOCRm1IuqilArwpKy2eSz6Og2n5OuYZjjCsgYpqsNy941IUjojKDR7aJzJkK_rwg2vrnDzAS22ORIKfOtWPOC4rdjl7fVBBJNAQ=w2400
+cover-img: https://lh3.googleusercontent.com/klJKHTmSgGGkZnsTRRZs-Ph-TNslgBtPUffJ5Er3ts_w4VpidHoz1xC_-lCFt2BHpF1NUwHo7Iasd0m5RYcyf3kNzFksTzInWAwc1Gt2mDytV4_Fu3LVTzZsdmkUGJeRi_HQ6aN-EQ=s246-p-k
 tags: [Android,Features,Tricks]
 comments: true
 last-updated: 2020-01-22
