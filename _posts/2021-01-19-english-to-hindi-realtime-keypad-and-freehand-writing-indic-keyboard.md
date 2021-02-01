@@ -1,0 +1,26 @@
+---
+layout: post
+title: English to Hindi type (likhen -> लिखें) and freehand writing - Indic Keyboard
+cover-img: https://play-lh.googleusercontent.com/ZwkvxWr1hIyOsRMhJ3qfFN8NIcOjbDmDykJqX0u-GZ0MQbR0ZEoEUmsouwLhvKYJ-x8=w2400
+tags: [Translate,Features,Tricks]
+comments: true
+last-updated: 2021-01-25
+---
+
+``AJT8``
+
+{: .box-warning}
+• Pros:
+
+• Write any word in English and convert it to your favorite local language in realtime 
+
+• Support for: English,Assamese,Bengali,Gujarati,Hindi,Kannada,Malayalam,Marathi,Odia,Punjabi,Tamil,Telugu
+
+{: .box-note}
+• Steps:
+
+1. Download Google Indic Keyboard
+   Link: [https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi){:target="_blank"
+
+2. •`•`
+   Now what!!
