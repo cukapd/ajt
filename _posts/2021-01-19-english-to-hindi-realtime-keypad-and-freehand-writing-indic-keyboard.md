@@ -12,7 +12,11 @@ last-updated: 2021-01-25
 {: .box-warning}
 • Pros:
 
-• Write any word in English and convert it to your favorite local language in realtime 
+• Write any word in English and convert it to your favorite local language in realtime
+
+• Features Direct write mode in which you can type directly in local language
+
+• Also features Freehand writing mode, in which you can draw text on screen
 
 • Support for: English,Assamese,Bengali,Gujarati,Hindi,Kannada,Malayalam,Marathi,Odia,Punjabi,Tamil,Telugu
 
@@ -22,5 +26,5 @@ last-updated: 2021-01-25
 1. Download Google Indic Keyboard
    Link: [https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi){:target="_blank"
 
-2. •`•`
-   Now what!!
+2. After activating keyboard prequisites as indicated by the app,
+   You can enjoy all 3 modes as descibed in pros.
