@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Change whatsapp font : Make stylish and pǝʇɹǝʌuᴉ (flipped)
+title: Change whatsapp font : Make stylish and interted
 cover-img: ["https://play-lh.googleusercontent.com/mXq_0-11K4Y20f6Mm2e67dAbti9-ivDQCORUFBkm3ikMcjqSkwU81rKHUIZVMV_KFrk=w2400","https://play-lh.googleusercontent.com/mmKMyjP55c9FRZhu6dPQ4Tz4Ff3rGfztansoX9_01VPyBtYaeWgNCmZA9IonXACfQA=w2400"]
 tags: [Whatsapp,UI,Tricks]
 comments: true
