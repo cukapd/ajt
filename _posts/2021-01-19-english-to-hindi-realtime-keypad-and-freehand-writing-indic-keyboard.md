@@ -1,6 +1,6 @@
 ---
 layout: post
-title: English to Hindi type (likhen -> लिखें) and freehand writing - Indic Keyboard
+title: English to Hindi type realtime (likhen -> लिखें) and freehand writing - Indic Keyboard
 cover-img: https://play-lh.googleusercontent.com/ZwkvxWr1hIyOsRMhJ3qfFN8NIcOjbDmDykJqX0u-GZ0MQbR0ZEoEUmsouwLhvKYJ-x8=w2400
 tags: [Translate,Features,Tricks]
 comments: true
