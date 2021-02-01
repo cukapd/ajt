@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to Change whatsapp font - Make stylish and inverted
-cover-img: ["https://play-lh.googleusercontent.com/mXq_0-11K4Y20f6Mm2e67dAbti9-ivDQCORUFBkm3ikMcjqSkwU81rKHUIZVMV_KFrk=w2400","https://play-lh.googleusercontent.com/mmKMyjP55c9FRZhu6dPQ4Tz4Ff3rGfztansoX9_01VPyBtYaeWgNCmZA9IonXACfQA=w2400"]
+title: How to Change text font for whatsapp - Make stylish and inverted
+cover-img: "https://play-lh.googleusercontent.com/mmKMyjP55c9FRZhu6dPQ4Tz4Ff3rGfztansoX9_01VPyBtYaeWgNCmZA9IonXACfQA=w2400"
 tags: [Whatsapp,UI,Tricks]
 comments: true
-last-updated: 2021-01-15
+last-updated: 2021-01-21
 ---
 
 ``AJT7``
