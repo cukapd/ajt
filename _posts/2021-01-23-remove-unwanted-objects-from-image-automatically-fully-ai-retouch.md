@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Remove Unwanted objects from image automatically fully AI - TouchRetouch
+title: How to Remove Unwanted objects from image automatically fully AI - Photo Retouch
 cover-img: https://play-lh.googleusercontent.com/Nbw5C7SlzDMsetqhTuoEyk_KfxHBIy2ITCtu96iIv5wOQpe3GqcAL06fKDS751F5lto=w2400
 tags: [Photos,AI,Tools]
 comments: true
