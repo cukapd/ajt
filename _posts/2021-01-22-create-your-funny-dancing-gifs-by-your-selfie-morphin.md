@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Create your own funny gif/video by your face photo - Morphin
-cover-img: https://play-lh.googleusercontent.com/5kE3PAulkteftvxlEUm1_a-IRH9jIis1wRhdon0ERJu33bJoVV3KbPJLyN0NX2TqF7h1=w2400
+title: Create your own funny gif/video by your face photo - Reface
+cover-img: https://play-lh.googleusercontent.com/C75pm0OwfckbJAueHn2psJXr43vF9CypVOHydVgRHA8JHXEFJbO479DIBpfUo1mc2Q=s200-rw
 tags: [Fun,Videos,AI]
 comments: true
 last-updated: 2021-01-26
