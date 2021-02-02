@@ -9,7 +9,7 @@ last-updated: 2021-01-27
 
 ``AJT10``
 
-{: .box-error}
+{: .box-warning}
 • Pros:
 
 • This utility app is for those partners who have/want to manage with a single earphone
