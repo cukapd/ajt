@@ -4,7 +4,7 @@ title: Play 1200 unique games in just 1.5 mb app - Nes1200in1
 cover-img: https://play-lh.googleusercontent.com/aUnWwI4DkjQ-W0H1zNnAB_A8cTwG7_1dgVyexnAdZGffPEOK5tSIwQBUOP75UaY-O2o=w2400
 tags: [Games,Fun]
 comments: true
-last-updated: 2021-01-14
+last-updated: 2021-01-29
 ---
 
 ``AJT13``
