@@ -18,7 +18,7 @@ last-updated: 2021-01-25
 
 • Also features Freehand writing mode, in which you can draw text on screen
 
-• Support for: English,Assamese,Bengali,Gujarati,Hindi,Kannada,Malayalam,Marathi,Odia,Punjabi,Tamil,Telugu
+• Support for: English, Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Telugu
 
 {: .box-note}
 • Steps:
