@@ -17,8 +17,8 @@ last-updated: 2021-01-26
 {: .box-note}
 • Steps:
 
-1. Download and Install Morphin. 
-   Link: [https://play.google.com/store/apps/details?id=io.morphin](https://play.google.com/store/apps/details?id=io.morphin){:target="_blank"}
+1. Download and Install Reface. 
+   Link: [https://play.google.com/store/apps/details?id=video.reface.app](https://play.google.com/store/apps/details?id=video.reface.app){:target="_blank"}
 
 2. Sign Up/In.
 
