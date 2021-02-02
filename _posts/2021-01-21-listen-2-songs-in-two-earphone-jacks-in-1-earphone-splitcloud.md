@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Listen 2 songs in two earphone jacks by 1 earphone - SplitCloud
-cover-img: https://play-lh.googleusercontent.com/tOp3W-G5cvVT5QyXyWA4MOBZEo2BKy-g8AunGhMIyA75zojDqNcnua27y-k0aCHihVfR=w2400
+cover-img: https://play-lh.googleusercontent.com/Yhw4-xE0wHU1uBQ-0yPNsseklmZE_b_nYjIxBa-VyMefSL4XnfktaG11kIPU-eXIhq4=w2400
 tags: [Android,Features,Hacks,Tricks]
 comments: true
 last-updated: 2021-01-27
