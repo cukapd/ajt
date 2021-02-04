@@ -33,7 +33,6 @@
   {% endif %}
 
   <meta name="description" content="{{ description }}">
-
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
   {% endif %}
@@ -108,6 +107,7 @@
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
+  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {% if page.id %}
