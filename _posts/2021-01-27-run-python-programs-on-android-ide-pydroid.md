@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Run Python progams on Android - Python3 IDE for Android - Pydroid3
+title: How to Run Python progams on Android - Python3 IDE for Android - Pydroid3
 cover-img: https://play-lh.googleusercontent.com/VMax81pKL_PLsuXzlLQNJQnZdFVGG5bECoDt_4D4ycbFvfsQfREW3k26ERC92ZYkSg=w2400
 tags: [Connectivity,Dev,Tools]
 comments: true
