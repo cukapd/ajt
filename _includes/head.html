@@ -2,9 +2,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <meta name="theme-color" content="#86b300">
-  <link rel="icon" sizes="192x192" href="/jt_logo_192.png">
-
   {% capture title %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
@@ -33,6 +30,7 @@
   {% endif %}
 
   <meta name="description" content="{{ description }}">
+
   {% if site.mobile-theme-col %}
   <meta name="theme-color" content="{{ site.mobile-theme-col }}">
   {% endif %}
@@ -83,6 +81,7 @@
 
   {% if site.title %}
   <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {%- capture img -%}
@@ -107,7 +106,6 @@
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
-  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {% if page.id %}
