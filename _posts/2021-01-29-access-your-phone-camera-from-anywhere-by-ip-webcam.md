@@ -14,7 +14,7 @@ last-updated: 2021-01-30
 
 • Share your phone IP and remotely access its cameras and microphone
 
-• Use your old phone as a security camera andaccess it from anywhere
+• Use your old phone as a security camera and access it from anywhere
 
 {: .box-note}
 • Steps:
