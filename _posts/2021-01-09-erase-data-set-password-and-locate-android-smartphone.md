@@ -2,7 +2,7 @@
 layout: post
 title: Erase data, set password and locate your lost Android smartphone - Find My Device
 cover-img: https://lh3.googleusercontent.com/KbevCypGjVihfO665oSVxViqddZTL2Gh9bGr7X7noeDs0wcN6FCjkdm3tYl2hsXV_tebUhcuVe66Q4-X4fv84yzPRsMSnZgKmCez1YGxmTtK26bx2LvmEgxQ9BKaqTE2ZlxkfR8-8Q=w2400
-tags: [Android,Features,Hacks,Tricks]
+tags: [Security,Features,Hacks,Google]
 comments: true
 last-updated: 2021-01-14
 ---
