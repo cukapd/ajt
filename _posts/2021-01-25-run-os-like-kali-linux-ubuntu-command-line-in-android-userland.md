@@ -2,7 +2,7 @@
 layout: post
 title: How to Run OS like Kali linux, Ubuntu command line in android - UserLAnd
 cover-img: https://play-lh.googleusercontent.com/drIkzNxHKcYWGp6VEN8zv2OQxQMfu7s185xVa7eOAlDjlYhIplP6swTVio25y_HTRfw=w2400
-tags: [Tools,OS,Root,Connectivity]
+tags: [Tools,Geek,Root]
 comments: true
 last-updated: 2021-01-27
 ---
