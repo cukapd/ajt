@@ -2,7 +2,7 @@
 layout: post
 title: English to Hindi type realtime (likhen -> लिखें) and freehand writing - Indic Keyboard
 cover-img: https://play-lh.googleusercontent.com/ZwkvxWr1hIyOsRMhJ3qfFN8NIcOjbDmDykJqX0u-GZ0MQbR0ZEoEUmsouwLhvKYJ-x8=w2400
-tags: [Language,Keyboard,Geek]
+tags: [Language,Keyboard,Geek,Google]
 comments: true
 last-updated: 2021-01-25
 ---
