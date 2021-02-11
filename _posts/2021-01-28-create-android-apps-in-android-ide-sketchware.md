@@ -2,7 +2,7 @@
 layout: post
 title: How to make android apps in android with custom package name - scratch based app - Sketchware
 cover-img: https://play-lh.googleusercontent.com/y-V2MnN6_BaHmuVk8pgUy3u_79OGOOuU1Lhy7vjBlMUqKGLDrr0rcchrTEhvz8IAwVA=w2400
-tags: [Connectivity,Dev,Tools]
+tags: [Dev]
 comments: true
 last-updated: 2021-02-02
 ---
