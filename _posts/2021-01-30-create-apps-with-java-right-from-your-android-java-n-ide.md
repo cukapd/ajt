@@ -4,7 +4,7 @@ title: How to create apps with java right from your Android - Java N-Ide
 cover-img: https://play-lh.googleusercontent.com/WH_sgfQ4AmeK0_dCLUrrDUEbJ0MSPGjpVHzArUGk7d1DRG7citAa3rOk1pZYaT2_jiY=w2400
 tags: [Dev]
 comments: true
-last-updated: 2021-01-31
+last-updated: 2021-02-03
 ---
 
 ``AJT19``
