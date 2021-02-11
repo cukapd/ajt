@@ -24,7 +24,7 @@ last-updated: 2021-01-25
 • Steps:
 
 1. Download Google Indic Keyboard
-   Link: [https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi){:target="_blank"
+   Link: [https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi](https://play.google.com/store/apps/details?id=com.google.android.apps.inputmethod.hindi){:target="_blank"}
 
 2. After activating keyboard prequisites as indicated by the app,
    You can enjoy all 3 modes as descibed in pros.
