@@ -2,7 +2,7 @@
 layout: post
 title: How to Access your phone's camera from anywhere browser - IP Webcam
 cover-img: https://play-lh.googleusercontent.com/qn6LAGjRbz_8T92SCJJ28vrRUmh6FsvTV6-ZHFenWcxx86Mtgq74r6iKPOig8syTSDA=w2400
-tags: [Hacks,Connectivity,Tools]
+tags: [Hacks,Connectivity]
 comments: true
 last-updated: 2021-01-30
 ---
