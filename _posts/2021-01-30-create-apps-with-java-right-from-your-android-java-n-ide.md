@@ -21,7 +21,7 @@ last-updated: 2021-01-31
 {: .box-error}
 • Cons:
 
-• Plugins as of Android Studio arenot supported
+• Plugins as of Android Studio are not supported
 
 • No support for gradle
 
