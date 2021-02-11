@@ -2,7 +2,7 @@
 layout: post
 title: How to Format your messages in Whatsapp - CheatCodes
 cover-img: https://lh3.googleusercontent.com/sUDqTNpufOm3G8p7CrbVvxp6S6v3v1F7HCAhDCfZxz02AelPrbTuVK-JaWjs83Tcb5eoXWo4HtEbUJGzqo5y4LGZlAjthq-pOXMjNoGtzkoN-t4YHsxyuqEC8XOIedPkBDHWuTZucA=w2400
-tags: [Android,Whatsapp,Features]
+tags: [UI,Whatsapp,Features]
 comments: true
 last-updated: 2021-01-18
 ---
