@@ -1,7 +1,3 @@
-💱 #HJ0027 
-
-• 
-
 ---
 layout: post
 title: How to create apps with java right from your Android - Java N-Ide
