@@ -2,7 +2,7 @@
 layout: post
 title: There is a hidden game in settings - Android
 cover-img: https://lh3.googleusercontent.com/6Gy5SFUSOcxNGmzUeviBaL0_zpiLJg5PNfXEOnj0AMtLQZlmpBY1suBvOoNYZlYAl3FzgXT5H8X64MxlHAFRpufVmol1et9h4fu0UGo4o_9H0nh_S2p3VMt_pIS0lQjFwCeJREcBlw=w2400
-tags: [Android,Features,Games]
+tags: [Settings,Features,Games,OS]
 comments: true
 last-updated: 2021-01-16
 ---
