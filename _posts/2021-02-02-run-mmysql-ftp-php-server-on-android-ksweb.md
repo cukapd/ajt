@@ -21,7 +21,7 @@ last-updated: 2021-02-04
 
 1. Install KSWEB.
 
-   Link: [https://play.google.com/store/apps/details?id=intelligems.torrdroid/](https://play.google.com/store/apps/details?id=intelligems.torrdroid){:target="_blank"}
+   Link: [https://play.google.com/store/apps/details?id=ru.kslabs.ksweb](https://play.google.com/store/apps/details?id=ru.kslabs.ksweb){:target="_blank"}
 
 2. At the top menu, under the 'LIGHTTPD' tab, check 'enable server' to be turned on. You can also choose 'nginx' or 'apache'.
 
