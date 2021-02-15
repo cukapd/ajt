@@ -56,7 +56,7 @@ layout: base
       </ul>
       {% include comments.html %}
 
-      {% assign lst=[] %}
+      {% assign lst = [] %}
       {% for post in site.posts %}
         {% lst += [("'{{ post.url }}'","{{ post.title }}")] %}
       {% endfor %}
