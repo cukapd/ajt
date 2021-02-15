@@ -58,7 +58,7 @@ layout: base
 
       {% assign lst = [] %}
       {% for post in site.posts %}
-        {% lst += [("'{{ post.url }}'","{{ post.title }}")] %}
+        {% assign lst += [("'{{ post.url }}'","{{ post.title }}")] %}
       {% endfor %}
 
       {% for i in (1..5) %}
