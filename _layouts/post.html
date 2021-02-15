@@ -56,15 +56,6 @@ layout: base
       </ul>
       {% include comments.html %}
 
-      {% assign lst = [] %}
-      {% for post in site.posts %}
-        {% assign lst += [("'{{ post.url }}'","{{ post.title }}")] %}
-      {% endfor %}
-
-      {% for i in (1..5) %}
-        {{ forloop.index | randompost: lst[0] }}
-      {% endfor %}
-
     </div>
   </div>
 </div>
