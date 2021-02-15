@@ -6,7 +6,7 @@ subtitle: just android utilities
 <ul>
   {% for post in site.posts %}
      <li>
-       <a href="{{ post.url }}"></a>
+       <a href="{{ post.url }}">ok</a>
      </li> 
    {% endfor %}
 </ul>
