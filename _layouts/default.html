@@ -2,6 +2,42 @@
 layout: base
 ---
 
+
+
+<div id="search-demo-container">
+      <input type="search" id="search-input" placeholder="search...">
+      <ul id="results-container"></ul>
+    </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+         Yes
+      </div>
+    </div>
+
+
+
+<script src="https://android.jawlatech.ml/search-script.js"></script>
+
+    <script>
+      window.simpleJekyllSearch = new SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false,
+        exclude: ['Welcome']
+      })
+    </script>
+
+
+
+
+
+
+
 <div class="intro-header"></div>
 
 <div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
