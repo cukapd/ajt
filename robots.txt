@@ -1,6 +1,6 @@
 # URL parameters blocking for SEO
 User-agent: *
-Disallow: /*feed.xml
+Disallow: /*tags*
 
 #sitemaps
 Sitemap: https://android.jawlatech.ml/sitemap.xml
