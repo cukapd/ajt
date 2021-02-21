@@ -1,15 +1,6 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
 
-
-<script>
-const theme = localStorage.getItem('theme');
-	if (theme === "dark") {
-		document.documentElement.setAttribute('data-theme', 'dark');
-	}
-</script>
-
-
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
@@ -44,11 +35,6 @@ const theme = localStorage.getItem('theme');
        <li> {% include bar.html %} </li>
     </ul>
   </div>
-
-  <div>
-  <button id="theme-toggle" onclick="modeSwitcher()"></button>
-  </div>
-
 
 
   {% if site.navbar-extra %}
