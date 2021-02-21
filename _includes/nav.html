@@ -1,5 +1,15 @@
 <nav class="navbar navbar-expand-xl navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% else %}top-nav-regular{% endif %}">
 
+
+
+
+const theme = localStorage.getItem('theme');
+	if (theme === "dark") {
+		document.documentElement.setAttribute('data-theme', 'dark');
+	}
+
+
+
   {%- if site.title-img -%}
     <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img | relative_url}}"/></a>
   {%- elsif site.title -%}
@@ -35,21 +45,8 @@
     </ul>
   </div>
 
-
-  <div id="change-skin" title="Toggle Night Mode">
-    <style>
-      @font-face {
-        font-family: 'Dark Mode Toggle (Emoji)';
-        font-style: normal;
-        font-weight: 100;
-        src: local(''),
-          url('/assets/font/dark-toggle.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-          url('/assets/font/dark-toggle.woff') format('woff'),   /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-          url('/assets/font/dark-toggle.ttf') format('truetype');/* Safari, Android, iOS */
-      }
-    </style>
-    <span style="font-family: 'Dark Mode Toggle (Emoji)';" class="skin-btn dark-mode">🌙</span>
-    <span style="font-family: 'Dark Mode Toggle (Emoji)';" class="skin-btn light-mode">☀️</span>
+  <div>
+  <button id="theme-toggle" onclick="modeSwitcher()">🌙 ☀️</button>
   </div>
 
 
