@@ -4,7 +4,7 @@ title: How to Run Chrome browser desktop extensions on Android - Kiwi
 cover-img: https://play-lh.googleusercontent.com/IpPy16lik1fLrJs0fkaFuKrUm6Hw9Q3KDa2gLbewoze0Ko39gEIOyDECYOZBFJLHGeo=w2400
 tags: [Geek,Tricks]
 comments: true
-last-updated: 2021-01-14
+last-updated: 2021-01-29
 ---
 
 ``AJT15``
