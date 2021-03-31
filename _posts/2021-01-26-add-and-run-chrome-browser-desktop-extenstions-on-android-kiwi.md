@@ -22,4 +22,4 @@ last-updated: 2021-01-14
 1. Install Kiwi Browser
    Link: [https://play.google.com/store/apps/details?id=com.kiwibrowser.browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser){:target="_blank"}
 
-2. Now you will be able to Add Google Chrome extensions made for PC Browser from here: [https://chrome.google.com/webstore/category/extensions](https://chrome.google.com/webstore/category/extensions){:target="_blank"}
+2. Now you will be able to Add Google Chrome extensions made for PC Browser from here: [https://chrome.google.com/webstore/extensions/](https://chrome.google.com/webstore/category/extensions){:target="_blank"}
