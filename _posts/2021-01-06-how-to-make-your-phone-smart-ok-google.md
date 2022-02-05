@@ -1,4 +1,5 @@
 ---
+category: blogging
 layout: post
 title: How to make your Android phone smart - OK Google
 cover-img: https://lh3.googleusercontent.com/klJKHTmSgGGkZnsTRRZs-Ph-TNslgBtPUffJ5Er3ts_w4VpidHoz1xC_-lCFt2BHpF1NUwHo7Iasd0m5RYcyf3kNzFksTzInWAwc1Gt2mDytV4_Fu3LVTzZsdmkUGJeRi_HQ6aN-EQ=s246-p-k
